@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 My name is Isro' Rizky Wibowo<br>I have experience in Data Analyst and Data Engineer<br>I am 6th semester Information System student at Dian Nuswantoro University<br><br>🌍  I'm based in Blora, Central Java<br>✉️  You can contact me at rizky.wibowo268@gmail.com<br>🧠  I'm currently learning Amazon Web Services, Apache Airflow & Apache Kafka<br>🤝  I'm open to collaborating on something related to what I'm studying
+Hi 👋 My name is Isro' Rizky Wibowo<br>I have experience in Data Analyst and Data Engineer<br>I am 7th semester Information System student at Dian Nuswantoro University<br><br>🌍  I'm based in Blora, Central Java<br>✉️  You can contact me at rizky.wibowo268@gmail.com<br>🧠  I'm currently learning Integrating Machine Learning to Flask using REST API, Apache Airflow & Apache Kafka<br>🤝  I'm open to collaborating on something related to what I'm studying
 
 
 ## 🌐 Socials:
