@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 My name is Isro' Rizky Wibowo<br>I have experience in Data Analyst and Data Engineer<br>I am 7th semester Information System student at Dian Nuswantoro University<br><br>🌍  Based in Blora, Central Java<br>✉️  Kindly contact me at rizky.wibowo268@gmail.com<br>🧠  Focused in Big Data and Analytic Engineer<br>🤝  Glad to collaborating on something related to what I'm studying
+Hi 👋 My name is Isro' Rizky Wibowo<br>I have experience in Data Analyst and Data Engineer from 4th semester<br>Fresh Graduate student of Information System at Dian Nuswantoro University<br><br>🌍  Based in Blora, Central Java<br>✉️  Kindly contact me at rizky.wibowo268@gmail.com<br>🧠  Focused in Big Data and Analytic Engineer<br>🤝  Glad to collaborating and sharing from my experiences
 
 
 ## 🌐 Socials:
