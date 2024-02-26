@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi 👋 My name is Isro' Rizky Wibowo<br>I have experience in Data Analyst and Data Engineer starting from 4th semester<br>Fresh Graduate student of Information System at Dian Nuswantoro University<br><br>🌍  Based in Blora, Central Java<br>✉️  Kindly contact me at rizky.wibowo268@gmail.com<br>🧠  Focused in Big Data and Analytic Engineer<br>🤝  Glad to collaborating and sharing from my experiences
+Hi, I'am Isro' Rizky Wibowo 👋<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Analyst;Data+Engineer)](https://git.io/typing-svg)
+
+I am Fresh Graduate of Information System at Dian Nuswantoro University who have passion on Analytics Engineer. Have a strong interest in Data Analytics and Data Engineering with solid foundation in data management, data architecture, and data processing. Skilled in performing end-to-end data analytics as well as data pipeline design and implementation to ensure data quality and integrity.<br><br>🌍  Based in Blora, Central Java<br>🧠  Focused in Big Data and Analytic Engineer<br>🤝  Glad to collaborating and sharing from my experiences<br>✉️  Kindly contact me at rizky.wibowo268@gmail.com
 
 
 ## 🌐 Socials:
