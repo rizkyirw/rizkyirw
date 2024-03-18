@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi, I'am Isro' Rizky Wibowo 👋<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Analyst;Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Analyst;Business+Intelligence)](https://git.io/typing-svg)
 
-I am Fresh Graduate of Information System at Dian Nuswantoro University who have passion on Analytics Engineer. Have a strong interest in Data Analytics and Data Engineering with solid foundation in data management, data architecture, and data processing. Skilled in performing end-to-end data analytics as well as data pipeline design and implementation to ensure data quality and integrity.<br><br>🌍  Based in Blora, Central Java<br>🧠  Focused in Big Data and Analytic Engineer<br>🤝  Glad to collaborating and sharing from my experiences<br>✉️  Kindly contact me at rizky.wibowo268@gmail.com
+Fresh Graduate of Information System at Dian Nuswantoro University with a strong foundation in data management, data architecture, and data processing. Possesses a keen interest in Data Analytics and Engineering, proficient in executing end-to-end data analytics. On top of that, I also have experience in dashboarding using Power BI and Tableau, complementing skills in designing and implementing data pipelines using Python and SQL for impeccable data quality and integrity. Looking for opportunities that can help to increase my self-development and challenge myself further to start a career in the field of data analyst or business intelligence.<br><br>🌍  Based in Blora, Central Java<br>🧠  Focused in Big Data and Analytic Engineer<br>🤝  Glad to collaborating and sharing from my experiences<br>✉️  Kindly contact me at rizky.wibowo268@gmail.com
 
 
 ## 🌐 Socials:
